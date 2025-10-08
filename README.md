@@ -26,7 +26,7 @@ This project provides a seamless interface for both users and administrators to 
 ## 🧩 Tech Stack
 
 * **Frontend / GUI:** PyQt5
-* **Backend:** Python 3.x
+* **Backend:** Python 3.13
 * **Database:** Oracle 11g Express Edition
 * **Language:** SQL
 
